@@ -42,7 +42,7 @@ ${result.title}
 </div>
 <div class="resultSnippet">
 <p>${result.snippet}</p>
-<a href="${encodeURI(`https://en.wikipedia.org/wiki/${result.title}`)}"> <button class="button2> Read more </button> </a>
+<a href="${encodeURI(`https://en.wikipedia.org/wiki/${result.title}`)}"> <button class="button2"> Read more </button> </a>
 </div>
 </div>
 `
